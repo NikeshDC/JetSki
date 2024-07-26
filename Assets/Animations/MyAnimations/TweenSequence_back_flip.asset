@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4464650e924e4a74597bfd6349b564fd, type: 3}
+  m_Name: TweenSequence_back_flip
+  m_EditorClassIdentifier: 
+  _name: boat_back_flip
+  _duration: 1
+  _animationType: 0
+  _animations:
+  - {fileID: 11400000, guid: c1c4220c8c98d7e4e82f0ddf30a0dd21, type: 2}
+  - {fileID: 11400000, guid: 0862ec4d7da01294eaea97868f1d86c3, type: 2}
